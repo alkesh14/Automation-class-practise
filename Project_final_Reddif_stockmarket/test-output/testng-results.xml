@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-11T05:03:23Z" name="Default suite" finished-at="2024-01-11T05:06:14Z" duration-ms="171217">
+    <groups>
+    </groups>
+    <test started-at="2024-01-11T05:03:23Z" name="Default test" finished-at="2024-01-11T05:06:14Z" duration-ms="171217">
+      <class name="verify_functionality.User_session">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:verify_functionality.User_session@341814d3]" started-at="2024-01-11T05:03:23Z" name="beforeTest" finished-at="2024-01-11T05:03:23Z" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="f()[pri:0, instance:verify_functionality.User_session@341814d3]" started-at="2024-01-11T05:03:23Z" name="f" finished-at="2024-01-11T05:03:23Z" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:verify_functionality.User_session@341814d3]" started-at="2024-01-11T05:03:23Z" name="beforeMethod" finished-at="2024-01-11T05:03:23Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:verify_functionality.User_session@341814d3]" started-at="2024-01-11T05:03:23Z" name="beforeMethod" finished-at="2024-01-11T05:03:23Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="do_login()[pri:0, instance:verify_functionality.User_session@341814d3]" started-at="2024-01-11T05:03:23Z" name="do_login" finished-at="2024-01-11T05:06:14Z" duration-ms="171166" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- do_login -->
+        <test-method signature="do_logout()[pri:0, instance:verify_functionality.User_session@341814d3]" started-at="2024-01-11T05:06:14Z" name="do_logout" finished-at="2024-01-11T05:06:14Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- do_logout -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:verify_functionality.User_session@341814d3]" started-at="2024-01-11T05:06:14Z" name="beforeMethod" finished-at="2024-01-11T05:06:14Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+      </class> <!-- verify_functionality.User_session -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,6 +1,6 @@
 package functionality;
 
-public class Validation_functionality {
+public class Validation_functionality extends Generic_functionality{
 	
 	public void validate_title() {
 		
@@ -10,7 +10,7 @@ public class Validation_functionality {
 		
 	}
 	
-	public void validate_element() {
+	public void validate_element                                                                                                                                                                      () {
 		
 	}
 

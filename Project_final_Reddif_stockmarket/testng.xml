@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite name="Suite">
+<suite name="Reddiftest">
   <test thread-count="5" name="Test">
+    <classes>
+      
+      <class name="verify_functionality.User_session">
+      <methods>
+		  <include name="do_login"></include>
+	  </methods>
+      </class>
+      
+      <class name="verify_functionality.Portfolio_managment">
+		  <methods>
+			  <include name="create_portfolio"></include>
+		  </methods>
+      </class>
+    </classes>
   </test> <!-- Test -->
-</suite> <!-- Suite -->
+</suite> <!-- Reddiftest -->
